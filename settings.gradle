@@ -1,0 +1,11 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        jcenter()
+        mavenCentral()
+    }
+}
+
+rootProject.name = "Yelp"
+include ':app'
